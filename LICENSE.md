@@ -1,29 +1,28 @@
 Copyright (c) 2026 r4ttles
 
-RESTRICTED EDUCATIONAL LICENSE
+RESTRICTED EDUCATIONAL LICENSE - PUBLIC VIEWING PERMITTED
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to view
-and use this software for personal, non-commercial educational purposes ONLY.
+1. GRANT OF RIGHTS
+   Permission is granted to view, study, and run this software for personal, 
+   non-commercial educational purposes only.
 
-This license does NOT grant permission to:
-1. Redistribute the Software or derivatives in any form (source or binary).
-2. Sell, license, or monetize the Software or any part thereof.
-3. Fork, publish, or host copies of the Software on other platforms without explicit written consent.
-4. Remove this copyright notice or license terms from the code.
+2. PROHIBITED ACTIONS
+   The following are STRICTLY PROHIBITED:
+   - Commercialization: Selling, licensing, or monetizing this software or any derivative.
+   - Rebranding: Removing copyright notices or claiming authorship of this work.
+   - Malicious Use: Utilizing this software for unauthorized access, data theft, or harm.
+   - Redistribution: Hosting copies on third-party sites without explicit permission.
 
-TERMINATION
+3. FORKING POLICY
+   While GitHub's Terms of Service permit forking of public repositories, 
+   any fork that violates the restrictions above (e.g., for commercial gain 
+   or malicious intent) constitutes a breach of this license and copyright law.
+   Forks must remain consistent with the original license terms.
 
-This license is automatically terminated if you violate any of the above conditions.
+4. DISCLAIMER
+   THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. 
+   THE AUTHOR IS NOT LIABLE FOR ANY DAMAGES ARISING FROM ITS USE.
 
-DISCLAIMER
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
-INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
-PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, 
-DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, 
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS 
-IN THE SOFTWARE.
-
-NOTE: All tools provided here are strictly for defensive security research and education. 
-Unauthorized use against systems you do not own is prohibited by law.
+5. LEGAL NOTICE
+   All tools herein are for defensive security research. Unauthorized use 
+   against systems you do not own is illegal.
