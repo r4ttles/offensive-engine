@@ -1,4 +1,4 @@
-# Security Lab
+# Offensive Engine
 
 ## Overview
 This repository contains offensive security tools, scripts, and frameworks designed for authorized penetration testing and vulnerability research. The primary goal is to identify weaknesses in network and host configurations to facilitate better defense strategies.
@@ -19,11 +19,11 @@ All code in this repository is provided strictly for **educational purposes** an
 -   The maintainer (`r4ttles`) is not responsible for any damages resulting from unauthorized use.
 
 ## Usage
-Clone this repository to your local environment for study. Do not redistribute binaries or source code.
-`git clone https://github.com/r4ttles/security-lab.git`
+Clone this repository to your local environment for study.
+`git clone https://github.com/r4ttles/offensive-engine.git`
 
 ## License Note
-**Restricted Educational License applies.** View and personal use permitted. **No redistribution, resale, or forking allowed.** See `LICENSE.md` for full details.
+**Restricted Educational License applies.** View and personal use permitted. **Commercial use, redistribution, or rebranding is prohibited.** See `LICENSE` for full details.
 
 ---
 *Last Updated: June 2026*
